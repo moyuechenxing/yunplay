@@ -1,0 +1,24 @@
+﻿  Plane.cpp
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(20): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(21): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(41): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(42): warning C4244: “=”: 从“int”转换到“FLOAT”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(104): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(112): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(113): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(114): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(115): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(157): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(183): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(197): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(199): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(241): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(241): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(244): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(244): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(276): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(302): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(316): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\pc\documents\visual studio 2015\projects\win32project1\win32project6\plane.cpp(318): warning C4244: “参数”: 从“FLOAT”转换到“int”，可能丢失数据
+  Win32Project6.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\Win32Project6.exe
+  Win32Project6.vcxproj -> C:\Users\pc\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\Win32Project6.pdb (Full PDB)
